@@ -1,4 +1,4 @@
-# Laboratório de Algoritmos e Estrutura de Dados
+# Laboratório de Algoritmos e Estrutura de Dados 2
 
 ## Introdução
 
