@@ -1,8 +1,8 @@
-# Laboratório de Algoritmos e Estrutura de Dados 2
+# Algoritmos e Estrutura de Dados 2 - Lista de atividade para prática da Linguagem C
 
 ## Introdução
 
-Resolução de todas as questões dessa lista será utilizando a metodologia apresentada no diagrama da figura:
+Para a resolução de todas as questões dessa lista será utilizando a metodologia apresentada no diagrama da figura:
 
 ![Fluxograma](./src/images/fluxograma.png)
 
