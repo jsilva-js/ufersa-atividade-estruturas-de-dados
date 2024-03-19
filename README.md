@@ -1,4 +1,4 @@
-# Lista de Atividade para Prática da Linguagem C - Disciplina: Laboratório de Algoritmos e Estruturas de Dados 2
+# Lista de Laboratório de Algoritmos e Estruturas de Dados 2
 
 ## Introdução
 
